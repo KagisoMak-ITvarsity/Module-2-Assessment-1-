@@ -54,7 +54,6 @@ body{
 #main-home{
        margin-top: 120px;
        margin-bottom: 50px;
-     background-size : cover;
 }
 
 /*=========================Bottom Tabs=========================*/
@@ -211,4 +210,5 @@ textarea{
       padding : 8px 0;
 
 }
+
 
